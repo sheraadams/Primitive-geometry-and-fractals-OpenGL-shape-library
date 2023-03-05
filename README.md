@@ -9,5 +9,7 @@ Headers files for shapes including cylinder, icosphere, sphere, pyramid, cube, q
 ## References
 
 http://www.songho.ca/opengl/gl_cylinder.html
+
 http://www.songho.ca/opengl/gl_sphere.html
+
 https://learnopengl.com/
