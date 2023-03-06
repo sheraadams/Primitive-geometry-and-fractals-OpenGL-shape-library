@@ -1,4 +1,5 @@
-// credit to Song Ho Ahn
+// author: Ahn, Song Ho (n.d) Icosphere. https://songho.ca/opengl/gl_sphere.html#icosphere
+
 
 #include "Cylinder.h"
 #include "shader.h"
