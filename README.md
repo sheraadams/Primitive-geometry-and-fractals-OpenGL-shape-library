@@ -8,8 +8,8 @@ Headers files for shapes including cylinder, icosphere, sphere, pyramid, cube, q
 
 ## References
 
-http://www.songho.ca/opengl/gl_cylinder.html
+Ahn, Song Ho (n.d.) Cylinder. http://www.songho.ca/opengl/gl_cylinder.html
 
-http://www.songho.ca/opengl/gl_sphere.html
+Ahn, Song Ho (n.d.) Sphere. http://www.songho.ca/opengl/gl_sphere.html
 
-https://learnopengl.com/
+DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
