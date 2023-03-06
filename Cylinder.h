@@ -1,3 +1,6 @@
+// author: Ahn, Song Ho (n.d) Icosphere. https://songho.ca/opengl/gl_sphere.html#icosphere
+
+
 #pragma once
 #include <vector>
 class Cylinder
