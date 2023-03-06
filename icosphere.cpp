@@ -1,3 +1,6 @@
+// author: Ahn, Song Ho (n.d) Icosphere. https://songho.ca/opengl/gl_sphere.html#icosphere
+
+
 #include "icosphere.h"
 #include "shader.h"
 #ifdef _WIN32
