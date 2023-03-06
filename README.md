@@ -1,6 +1,6 @@
 ## Documentation
 
-Primitive and complex shapes and fractals for Modern openGL programs.
+Primitive and complex shapes and fractals for modern openGL programs.
 
 ## Shapes
 
